@@ -2,7 +2,6 @@
     AUTHOR: POLINA TIKHOMIROVA
     DATE: 10/29/21
     PURPOSE: Make a mini-platformer.
-    ASSIGNMENT: https://iu.instructure.com/courses/2013003/assignments/12528591
 */
 
 // Upon loading the page, manipulate the canvas
